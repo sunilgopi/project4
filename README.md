@@ -30,7 +30,8 @@ This is a web based application developed for dentile related based website in i
 
    
 
-### About Us -
+### About Us -![WhatsApp Image 2023-01-19 at 6 37 54 AM (1)](https://user-images.githubusercontent.com/118232324/213338923-b8d16054-7267-4f78-be0a-66a52ee3662f.jpeg)
+
 
 ![WhatsApp Image ![WhatsApp Image 2023-01-19 at 6 38 31 AM (2)](https://user-images.githubusercontent.com/118232324/213337553-cde48892-fa36-477e-b9c9-5a331e954c74.jpeg)
 2023-01-19 at 6 38 31 AM](https://user-images.githubusercontent.com/118232324/213337240-78d4ee1f-8b62-4fed-b227-13d6cdc89c5e.jpeg)
@@ -42,7 +43,9 @@ This is a web based application developed for dentile related based website in i
 
 ### Contact us -
 ![WhatsApp Image 2023-01-19 at 6 38 32 AM](https://user-images.githubusercontent.com/118232324/213337406-9af7300a-f1d1-487e-86ef-b770eea5fc48.jpeg)
-![WhatsApp Image 2023-01-19 at 6 38 32 AM (2)](https://user-images.githubusercontent.com/118232324/213337506-bd87b44f-4f1a-42e2-bae9-f2dd29aa3239.jpeg)
+![WhatsApp Image 2023-01-19 at 6 38 32 AM (2)](https://user-images.githubuse![WhatsApp Image 2023-01-19 at 7 39 48 AM (3)](https://user-images.githubusercontent.com/118232324/213339382-5e020692-d6a9-4db2-b4dc-789ab4429351.jpeg)
+rcontent.com/118232324/213337506-bd87b44f-4f1a-42e2-bae9-f2dd29aa3239.jpeg)
+![WhatsApp Image 2023-01-19 at 7 39 49 AM](https://user-images.githubusercontent.com/118232324/213339426-cda1010e-ddc8-4004-826f-e11ade93b068.jpeg)
 
 
 
