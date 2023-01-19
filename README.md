@@ -55,10 +55,10 @@ rcontent.com/118232324/213337506-bd87b44f-4f1a-42e2-bae9-f2dd29aa3239.jpeg)
 2.HEALTH BOT
 
 1.STATIC WEB APPS
+![Screenshot (4)](https://user-images.githubusercontent.com/118232324/213339926-298d4536-d6bb-4d28-a3a5-28171a961cc4.png)
 
 
-2.HEALTH BO![Screenshot (4)](https://user-images.githubusercontent.com/118232324/213338385-84886a0e-639d-4f61-8bf8-9b7843bdd0c3.png)
-T
+2.HEALTH BOT
 
 ![Screensho![Screenshot (5)](https://user-images.githubusercontent.com/118232324/213338004-ccdd8069-dfa4-491c-8c9f-7ba8e6dfdb9f.png)
 t (6)](https://user-images.githubusercontent.com/118232324/213337915-3da4cffb-4abd-4b75-9928-7d7c02535ce6.png)
