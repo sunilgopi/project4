@@ -5,7 +5,7 @@ This is a web based application developed for dentile related based website in i
 
 ### This web based dentile care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link** - https://victorious-sand-024c93e00.2.azurestaticapps.net/
+**Project Link** - https://sunilgopi.github.io/project4/
 **project demo video link** - https://youtu.be/AhYOUJI9v5k
 
 ## Azure technologies used for Project
